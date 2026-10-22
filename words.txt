@@ -1,0 +1,54 @@
+COMMAND_WORDS
+aç
+kapat
+ileri sar
+geri sar
+bir önceki
+bir sonraki
+başlat
+çalıştır
+oynat 
+durdur
+tekrarla
+tekrar et
+yinele
+
+QUESTİON_WORDS
+nedir
+nasıl
+neden
+ne işe yarar
+kim
+hangi
+nerede
+ne zaman
+hangisiyle
+kiminle
+nereden
+nereye
+kimden
+kime
+hangisinden
+hangisine
+
+MEMORY_WORDS
+hatırla
+önemli
+unutma
+bunu atlama
+aklında tut
+bunu kaydet
+bunu not al
+bunu sakla
+
+REMİNDER_WORDS
+hatırlat
+alarm
+bana bildir
+zamanı gelince
+yarın
+sonra
+
+
+
+

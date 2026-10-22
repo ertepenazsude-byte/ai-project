@@ -1,0 +1,40 @@
+word,intent,action
+
+aç,command,open
+başlat,command,open
+çalıştır,command,open
+
+kapat,command,close
+durdur,command,close
+sonlandır,command,close
+bitir,command,close
+
+oynat,media,play
+parçayı başlat,media,play
+müziği başlat,media,play
+şarkıyı başlat,media,play
+
+
+
+bir sonraki,media,next
+sonraki parçaya geç,media,next
+sonraki şarkıyı aç,media,next
+sonraki müziğe geç,media,next
+
+bir önceki,media,previous
+bir önceki şarkı,media,previous
+bir önceki müziğe geç,media,previous
+bir önceki parçaya geç,media,previous
+
+tekrar et,media,repeat
+yinele,media,repeat
+
+duraklat,media,pause
+
+
+nedir,question,answer
+nasıl,question,answer
+neden,question,answer
+ne işe yarar,question,answer
+kim,question,answer
+hangi,question,answer

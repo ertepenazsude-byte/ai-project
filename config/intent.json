@@ -1,0 +1,57 @@
+{
+    "command_words":[
+        "aç",
+        "kapat",
+        "ileri sar",
+        "geri sar",
+        "bir önceki",
+        "bir sonraki",
+        "başlat",
+        "çalıştır",
+        "oynat",
+        "durdur",
+        "tekrarla",
+        "tekrar et",
+        "yinele"
+
+    ],
+
+    "question_words":[
+        "nedir",
+        "nasıl",
+        "neden",
+        "ne işe yarar",
+        "kim",
+        "hangi",
+        "nerede",
+        "ne zaman",
+        "hangisiyle",
+        "kiminle",
+        "nereden",
+        "nereye",
+        "kimden",
+        "kime",
+        "hangisinden",
+        "hangisine"],
+   
+        "memory_words":[
+        "hatırla",
+        "önemli",
+        "unutma",
+        "bunu atlama",
+        "aklında tut",
+        "bunu kaydet",
+        "bunu not al",
+        "bunu sakla",
+        "not et ve kaydet"
+    ]    ,
+    
+    "reminder_words":[
+        "hatırlat",
+        "alarm",
+        "bana bildir",
+        "zamanı gelince",
+        "yarın",
+        "sonra"
+    ]
+}

@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE ayarları
+.idea/
+.vs/
+.vscode/
+
+# Hassas bilgiler
+.env
+.env.*
+!.env.example
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+memory/user_profile.json

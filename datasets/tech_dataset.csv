@@ -1,0 +1,123 @@
+text,label
+for döngüsü nasıl çalışır,python
+list append ne işe yarar,python
+dictionary nedir,python
+class nasıl oluşturulur python,python
+if else yapısı nasıl kullanılır,python
+while döngüsü nedir,python
+def ile fonksiyon nasıl tanımlanır,python
+try except blokları ne işe yarar,python
+lambda fonksiyonu nedir,python
+pip ile kütüphane nasıl yüklenir,python
+set nedir ve nasıl kullanılır,python
+tuple ile list arasındaki fark nedir,python
+
+pointer nasıl çalışır,cpp
+pointer arithmetic nedir,cpp
+memory allocation nasıl yapılır,cpp
+cin nasıl kullanılır,cpp
+vector nedir cpp,cpp
+segmentation fault nedir,cpp
+header file ne işe yarar,cpp
+cout nasıl çalışır,cpp
+pointer nedir ve nasıl kullanılır,cpp
+reference ve pointer arasındaki fark nedir,cpp
+memory allocation new ve delete nasıl kullanılır,cpp
+destructor nedir ve ne işe yarar,cpp
+struct ile class arasındaki fark nedir,cpp
+virtual fonksiyon nedir,cpp
+namespace nedir ve neden kullanılır,cpp
+header file ve cpp dosyası ilişkisi nedir,cpp
+template class ve fonksiyon nasıl oluşturulur,cpp
+std cout ve std cin ne işe yarar,cpp
+
+
+binary search nasıl çalışır,algorithms
+bubble short nedir,algorithms
+binary search nasıl çalışır,algorithms
+bubble sort ne işe yarar,algorithms
+quick sort ve merge sort farkı nedir,algorithms
+time complexity big o notation nedir,algorithms
+graph ve ağaç veri yapıları nedir,algorithms
+dijkstra algoritması ne işe yarar,algorithms
+dynamic programming nedir,algorithms
+recursion nasıl çalışır,algorithms
+stack ve queue arasındaki fark nedir,algorithms
+hash table nasıl çalışır,algorithms
+
+linked list nasıl çalışır,data_structures
+binary search tree nedir,data_structures
+stack veri yapısı ne işe yarar,data_structures
+queue veri yapısı nedir,data_structures
+graph veri yapısı ve türleri nelerdir,data_structures
+hash table ve collision nedir,data_structures
+heap veri yapısı ne işe yarar,data_structures
+trie veri yapısı nedir ve nerede kullanılır,data_structures
+avl tree ve red black tree farkı nedir,data_structures
+matrix ve array arasındaki fark nedir,data_structures
+
+html div ne işe yarar,web
+css flexbox nedir,web
+javascript event listener nedir,web
+html nedir ve ne işe yarar,web
+css ile sayfa nasıl şekillendirilir,web
+javascript dom manipülasyonu nasıl yapılır,web
+rest api nedir ve nasıl çalışır,web
+http istek türleri get ve post farkı nedir,web
+localstorage ve sessionstorage farkı nedir,web
+cookie nedir ve ne amaçla kullanılır,web
+responsive tasarım nasıl yapılır,web
+cors hatası nedir ve nasıl çözülür,web
+spa ve mpa arasındaki fark nedir,web
+
+sql select nasıl çalışır,database
+primary key nedir,database
+sql ve nosql arasındaki fark nedir,database
+primary key ve foreign key ne işe yarar,database
+database indexing nasıl çalışır,database
+acid özellikleri nedir,database
+join türleri left ve inner join farkı nedir,database
+normalization nedir ve neden yapılır,database
+stored procedure ve trigger nedir,database
+mongodb ve postgresql farkı nedir,database
+database replication ve sharding nedir,database
+orm nedir ve neden kullanılır,database
+
+linux chmod ne işe yarar,linux
+terminal ls komutu nedir,linux
+ls ve cd komutları nasıl kullanılır,linux
+chmod ve chown ile yetkilendirme nasıl yapılır,linux
+grep komutu ile metin arama nasıl yapılır,linux
+ssh ile uzak sunucuya nasıl bağlanır,linux
+package manager apt ve yum farkı nedir,linux
+systemctl ile servisler nasıl yönetilir,linux
+cron job ile görev zamanlama nasıl yapılır,linux
+root kullanıcısı ve sudo komutu nedir,linux
+bash script nasıl yazılır ve çalıştırılır,linux
+process yönetimi ps ve kill komutları nasıl kullanılır,linux
+
+neural network nedir,ai
+machine learning nasıl çalışır,ai
+machine learning ve deep learning farkı nedir,ai
+supervised ve unsupervised learning nedir,ai
+neural network nasıl çalışır,ai
+overfitting ve underfitting nasıl önlenir,ai
+large language model llm nedir,ai
+transfer learning ne işe yarar,ai
+activation function nedir ve neden kullanılır,ai
+computer vision ve nlp arasındaki fark nedir,ai
+prompt engineering nasıl yapılır,ai
+reinforcement learning nedir,ai
+
+sql injection nedir,cybersecurity
+xss nedir,cybersecurity
+cia triad gizlilik bütünlük erişilebilirlik nedir,cybersecurity
+phishing oltalama saldırısı nasıl önlenir,cybersecurity
+brute force saldırısı nedir,cybersecurity
+firewall ve ddos koruması nasıl çalışır,cybersecurity
+symmetric ve asymmetric encryption farkı nedir,cybersecurity
+sql injection zafiyeti nasıl tespit edilir,cybersecurity
+xss cross site scripting nedir,cybersecurity
+vpn ve proxy arasındaki fark nedir,cybersecurity
+soc ve penetration testing nedir,cybersecurity
+malware ransomware ve trojan farkı nedir,cybersecurity

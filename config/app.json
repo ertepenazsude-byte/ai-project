@@ -1,0 +1,39 @@
+{
+    "apps":{
+        "spotify":{
+            "path":"C:\\Users\\GRS\\AppData\\Local\\Microsoft\\WindowsApps\\Spotify.exe",
+            "process":"Spotify"
+        
+        },
+        "whatsapp":{
+            "path":""
+        },
+        "vs code":{
+            "path": "C:\\Users\\GRS\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+            "process": "Code.exe"}
+        ,
+        "google haritalar":{
+            "path":""
+        },
+        "chat gpt":{
+            "path":""
+        },
+        "duolingo":{
+            "path":""
+        },
+        "pinterest":{
+            "path":""
+        },
+        "Microsoft Edge": {
+            "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "process": "msedge.exe"
+        },
+        "canva":{
+            "path":""
+        },
+        "Chrome": {
+            "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "process": "chrome.exe"
+}
+    }
+}
