@@ -684,5 +684,3 @@ Geliştirici: Sudenaz ERTEPE
 
     Git ve GitHub öğrenme çalışmalarım devam ediyor.
     Yeni model geliştirmeleri ayrı bir branch üzerinde deneniyor.
-
-    Git öğrenme çalışması: dosya geçmişi ve değişiklik karşılaştırması.
