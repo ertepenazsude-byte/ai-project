@@ -681,3 +681,5 @@ Geliştirici: Sudenaz ERTEPE
     Projenin ilerleyen aşamalarında hafıza sisteminin geliştirilmesi, sesli etkileşim özelliklerinin eklenmesi ve görev tabanlı agent mimarisine geçilmesi planlanmaktadır.
 
     Bu doğrultuda JARVIS, yalnızca belirli komutları yerine getiren bir program olmaktan ziyade; modüler, genişletilebilir ve kullanıcı odaklı bir yapay zekâ asistanı mimarisine dönüştürülmek üzere geliştirilmektedir.
+
+    Git ve GitHub öğrenme çalışmalarım devam ediyor.
