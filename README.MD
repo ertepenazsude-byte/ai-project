@@ -683,3 +683,4 @@ Geliştirici: Sudenaz ERTEPE
     Bu doğrultuda JARVIS, yalnızca belirli komutları yerine getiren bir program olmaktan ziyade; modüler, genişletilebilir ve kullanıcı odaklı bir yapay zekâ asistanı mimarisine dönüştürülmek üzere geliştirilmektedir.
 
     Git ve GitHub öğrenme çalışmalarım devam ediyor.
+    Yeni model geliştirmeleri ayrı bir branch üzerinde deneniyor.
